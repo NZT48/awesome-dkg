@@ -2,6 +2,12 @@
 
  A curated list of awesome resources, tools, and projects related to the OriginTrail Decentralized Knowledge Graph (DKG).
 
+<div align="center">
+    <img src="assets/awesome.png"/>
+</div>
+
+ OriginTrail Decentralized Knowledge Graph (DKG) presents a global, open data structure comprised of interlinked knowledge assets, structured in a RDF knowledge graph, hosted on an open, permissionless decentralized network of DKG nodes. It's designed to support [the Verifiable Internet for AI](https://origintrail.io/ecosystem/whitepaper) on the basis of an open, permissionless knowledge economy in which knowledge is the primary asset class.
+
 ---
 
 ## Contents
