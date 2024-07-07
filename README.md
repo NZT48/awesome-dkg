@@ -1,4 +1,4 @@
-# Awesome DKG (Decentralized Knowledge Graph) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome DKG [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
  A curated list of awesome resources, tools, and projects related to the OriginTrail Decentralized Knowledge Graph (DKG).
 
